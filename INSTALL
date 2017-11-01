@@ -1,0 +1,9 @@
+Building EternalGen
+
+See doc/readme-qt.rst for instructions on building eternal-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of EternalGen.
+
+See doc/build-*.txt for instructions on building eternal,
+the intended-for-services, no-graphical-interface, reference
+implementation of EternalGen.
